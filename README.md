@@ -1,5 +1,5 @@
 # MAME--Java
-Desarrollado por: Sebastian Barrionuebo Damian Barrionuebo Nahuel Peñalva Carla Anahi Billa
+Desarrollado por: Sebastian Barrionuebo Damian Barrionuebo Nahuel Peñalva Carla Anahi Billa.
 El proyecto se desarrollo con el compilador NetBeans con JDK-20 y usando Java with Ant.
 Adicionalmente para el manjeo de archivos se agrego la libreria Gson.
 
